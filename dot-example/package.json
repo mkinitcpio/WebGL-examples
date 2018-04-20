@@ -1,0 +1,12 @@
+{
+    "name": "dot-example",
+    "version": "0.0.2",
+    "description": "A simple example of dot rendering base on pure WebGL API.",
+    "scripts": {
+        "watch": "tsc -w",
+        "compile": "tsc"
+    },
+    "dependencies": {
+        "typescript": "2.8.3"
+    }
+}
