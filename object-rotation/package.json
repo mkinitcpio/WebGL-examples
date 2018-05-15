@@ -1,0 +1,16 @@
+{
+    "name": "object-rotation",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "webpack"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "webpack-cli": "2.1.3",
+        "file-loader": "1.1.11",
+        "raw-loader": "0.5.1",
+        "ts-loader": "4.3.0",
+        "typescript": "2.8.3",
+        "webpack": "4.8.3"
+    }
+}
